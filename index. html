@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DGFresh Spices</title>
+  <style>
+    body { font-family: Arial, sans-serif; background-color: #fff9f2; margin: 0; padding: 0; }
+    header { background-color: #2d6a4f; color: white; padding: 20px; text-align: center; }
+    section { padding: 20px; }
+    .product { background: #fefefe; border-radius: 10px; padding: 15px; margin: 10px 0; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+    .product h2 { margin: 0 0 10px; color: #2d6a4f; }
+    .product p { margin: 5px 0; }
+    .whatsapp-button {
+      display: inline-block;
+      padding: 10px 15px;
+      background-color: #25D366;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+    footer { text-align: center; padding: 20px; background: #eee; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>DGFresh Spices</h1>
+    <p>Farm Fresh Spices – Direct from Our Fields to Your Kitchen</p>
+  </header>
+
+  <section>
+    <div class="product">
+      <h2>Cardamom (100g)</h2>
+      <p>Price: ₹399</p>
+      <a class="whatsapp-button" href="https://wa.me/918547958824?text=I%20want%20to%20order%20Cardamom%20100g">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+      <h2>Black Pepper (100g)</h2>
+      <p>Price: ₹140</p>
+      <a class="whatsapp-button" href="https://wa.me/918547958824?text=I%20want%20to%20order%20Black%20Pepper%20100g">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+      <h2>Turmeric Powder (100g)</h2>
+      <p>Price: ₹75</p>
+      <a class="whatsapp-button" href="https://wa.me/918547958824?text=I%20want%20to%20order%20Turmeric%20Powder%20100g">Order on WhatsApp</a>
+    </div>
+
+    <div class="product">
+      <h2>Dry Ginger (100g)</h2>
+      <p>Price: ₹90</p>
+      <a class="whatsapp-button" href="https://wa.me/918547958824?text=I%20want%20to%20order%20Dry%20Ginger%20100g">Order on WhatsApp</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>Contact us on WhatsApp: +91 85479 58824</p>
+    <p>&copy; 2025 DGFresh Spices</p>
+  </footer>
+</body>
+</html>
